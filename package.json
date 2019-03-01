@@ -1,0 +1,11 @@
+{
+  "name": "dataStructuresAndAlgorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/renboen/dataStructuresAndAlgorithms.git",
+  "author": "renboen <308528611@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.1.0"
+  }
+}
